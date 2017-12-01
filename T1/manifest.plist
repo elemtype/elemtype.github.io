@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.yoomigroup.com/ios/T1.ipa</string>
+					<string>http://www.yoomigroup.com/product/T1/iOS/T1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.yoomigroup.com/ios/image57.png</string>
+					<string>http://www.yoomigroup.com/product/T1/iOS/image57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.yoomigroup.com/ios/image180.png</string>
+					<string>http://www.yoomigroup.com/product/T1/iOS/image180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
